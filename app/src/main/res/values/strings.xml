@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Chan Kar Yong</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education
+        \n\tChan jfaifahnf
+        \n\t skcjhakfhkaekf
+        \n\t fakja
+
+    </string>
+</resources>
